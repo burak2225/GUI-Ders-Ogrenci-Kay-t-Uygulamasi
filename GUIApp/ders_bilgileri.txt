@@ -1,0 +1,4 @@
+Ders Kodu: 1
+Ders Adı: a
+Ders Dönemi: 1
+

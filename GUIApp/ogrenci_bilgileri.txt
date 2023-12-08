@@ -1,0 +1,15 @@
+Öğrenci Adı: e
+Bölüm: e
+Öğrenci Numarası: e
+Dersler: e
+
+Öğrenci Adı: b
+Bölüm: b
+Öğrenci Numarası: b
+Dersler: b
+
+Öğrenci Adı: c
+Bölüm: c
+Öğrenci Numarası: c
+Dersler: c
+
